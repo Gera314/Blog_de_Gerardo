@@ -7,11 +7,8 @@
         <p>En este proceso igual me gustaria contarles las ventajas y desventajas de poder estudiar en linea ya que asi es como yo estoy estudiando, ya que ese tipo de modalidad no es para todos y no todos aprenden de la misma forma, asi que una vez dicho eso, daremos paso a iniciar con este blog</p>
         <p>Primero me gustaria preguntales ¿cual es su forma de aprender?</p>
         <encuesta> 
-            <opcion1>En linea.</opcion1>
-            <opcion2>Auditiva.</opcion2>
-            <opcion3>Presencial.</opcion3>
-        </encusta>
-
-    
+        <button>En linea.</button>
+        <button>Presencial.</button>
+            </encuesta>
     </head>
 </html>    
