@@ -9,6 +9,6 @@
         <p>En este proceso igual me gustaria contarles las ventajas y desventajas de poder estudiar en linea ya que asi es como yo estoy estudiando, ya que ese tipo de modalidad no es para todos y no todos aprenden de la misma forma, asi que una vez dicho eso, daremos paso a iniciar con este blog</p>
         <p>Primero me gustaria preguntales ¿cual es su forma de aprender?</p>
         <button onclick="alert('Bien asi que te gusta mas en linea')">En linea.</button>
-        <button onclicl="alert(Bien asi que te gusta mas en presencial)">Presencial.</button>
+        <button onclicl="alert('Bien asi que te gusta mas en presencial')">Presencial.</button>
     </body>
 </html>    
